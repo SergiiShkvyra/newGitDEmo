@@ -8,5 +8,6 @@ public class TestGit {
 		System.out.println("DEV branch switched and added line");
 		//comment from gitHub
 		System.out.println("eclipse say no changes, wierd");
+		System.out.println("not wierd at all, you were in master branch, but pulling from DEV");
 	}
 }
