@@ -8,5 +8,6 @@ public class TestGit {
 		System.out.println("DEV branch switched and added line");
 		//will try to add some changes at gitHub and pull
 		//for not just stash this
+		//since I`m in dev branch now I should see changes in the code when pull
 	}
 }
