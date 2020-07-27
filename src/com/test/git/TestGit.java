@@ -16,6 +16,7 @@ public class TestGit {
 		System.out.println("not wierd at all, you were in master branch, but pulling from DEV");
 		
 		//both branches merged successfully
+		System.err.println("GitHub doesn't see changed between 2 branches");
 
 	}
 }
