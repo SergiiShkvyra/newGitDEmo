@@ -14,6 +14,8 @@ public class TestGit {
 		//comment from gitHub
 		System.out.println("eclipse say no changes, wierd");
 		System.out.println("not wierd at all, you were in master branch, but pulling from DEV");
+		
+		//both branches merged successfully
 
 	}
 }
