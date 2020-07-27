@@ -7,5 +7,6 @@ public class TestGit {
 		System.out.println("new change");
 		System.out.println("DEV branch switched and added line");
 		//comment from gitHub
+		System.out.println("eclipse say no changes, wierd");
 	}
 }
